@@ -1,0 +1,4 @@
+file1.txt
+this is new repo
+old one is gone
+new opne is come
